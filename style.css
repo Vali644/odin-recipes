@@ -1,0 +1,53 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: #ff9900
+}
+
+img {
+    width: 50vw;
+    height: auto;
+    border-radius: 10px;
+    position: relative;
+    left: 25%;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.description,
+.steps,
+.recipe-list {
+    border-radius: 15px;
+    padding: 10px 10px 10px 50px;
+}
+
+.description {
+    background-color: lightslategray;
+    font-size: 30px;
+}
+
+.steps {
+    background-color: rgb(25, 65, 126);
+    color: aliceblue;
+    font-size: 20px;
+}
+
+a,
+.back {
+    color: black;
+}
+
+.back {
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.recipe-list {
+    background-color: rgb(0, 161, 35);
+    text-align: center;
+    font-size: 20px;
+}
